@@ -1,0 +1,98 @@
+[
+  {
+    "question": "What is Python?",
+    "answer": "Python is a high-level, general-purpose programming language known for readable syntax and a large standard library."
+  },
+  {
+    "question": "What is a variable in programming?",
+    "answer": "A variable is a named reference used to store a value that a program can read or change."
+  },
+  {
+    "question": "What is object-oriented programming?",
+    "answer": "Object-oriented programming organizes code around objects that combine data (attributes) and behavior (methods)."
+  },
+  {
+    "question": "What is a function?",
+    "answer": "A function is a reusable block of code that performs a specific task and can optionally accept inputs and return a result."
+  },
+  {
+    "question": "What is a list in Python?",
+    "answer": "A Python list is an ordered, mutable collection that can contain values of different types."
+  },
+  {
+    "question": "What is the difference between a list and a tuple in Python?",
+    "answer": "Lists are mutable, while tuples are immutable. Both are ordered collections, but tuples cannot be changed after creation."
+  },
+  {
+    "question": "What is Git?",
+    "answer": "Git is a distributed version-control system used to track changes in files and collaborate on software projects."
+  },
+  {
+    "question": "What is a Git commit?",
+    "answer": "A Git commit is a saved snapshot of staged changes, recorded with a message and a unique identifier."
+  },
+  {
+    "question": "What is a Git branch?",
+    "answer": "A Git branch is an independent line of development that lets you work on changes without affecting another branch."
+  },
+  {
+    "question": "What is an API?",
+    "answer": "An API, or application programming interface, is a defined way for software systems to communicate with each other."
+  },
+  {
+    "question": "What is a REST API?",
+    "answer": "A REST API is a web API style that commonly uses HTTP methods such as GET, POST, PUT, and DELETE to work with resources."
+  },
+  {
+    "question": "What is JSON?",
+    "answer": "JSON is a lightweight text format for representing structured data using objects, arrays, strings, numbers, booleans, and null."
+  },
+  {
+    "question": "What is a database?",
+    "answer": "A database is an organized collection of data that can be stored, searched, updated, and managed efficiently."
+  },
+  {
+    "question": "What is SQL?",
+    "answer": "SQL, or Structured Query Language, is used to define, query, and modify data in relational databases."
+  },
+  {
+    "question": "What is a primary key in a database?",
+    "answer": "A primary key is a column, or combination of columns, whose value uniquely identifies each row in a table."
+  },
+  {
+    "question": "What is machine learning?",
+    "answer": "Machine learning is a field of AI in which models learn patterns from data to make predictions or decisions."
+  },
+  {
+    "question": "What is supervised learning?",
+    "answer": "Supervised learning trains a model using labeled examples, where each input is paired with a known target output."
+  },
+  {
+    "question": "What is overfitting in machine learning?",
+    "answer": "Overfitting happens when a model learns training data too closely, including noise, and performs poorly on new data."
+  },
+  {
+    "question": "What is an algorithm?",
+    "answer": "An algorithm is a defined sequence of steps for solving a problem or completing a computation."
+  },
+  {
+    "question": "What is debugging?",
+    "answer": "Debugging is the process of finding, understanding, and fixing defects in software."
+  },
+  {
+    "question": "What is unit testing?",
+    "answer": "Unit testing checks small, isolated pieces of code, such as functions or methods, to verify they behave as expected."
+  },
+  {
+    "question": "What is an exception?",
+    "answer": "An exception is an event raised during program execution to signal an error or unusual condition that code can handle."
+  },
+  {
+    "question": "What is a virtual environment in Python?",
+    "answer": "A virtual environment is an isolated Python installation for a project, allowing it to use its own dependencies and versions."
+  },
+  {
+    "question": "What is cloud computing?",
+    "answer": "Cloud computing provides computing resources such as servers, storage, and databases over the internet on demand."
+  }
+]
